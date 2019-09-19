@@ -1,0 +1,26 @@
+Script started on Thu Sep 19 08:43:33 2019
+[?1034hbash-3.2$ ls
+0919.cnt
+bash-3.2$ date
+2019년 9월 19일 목요일 08시 44분 37초 KST
+bash-3.2$ who
+admin    console  Sep 19 08:09 
+admin    ttys000  Sep 19 08:27 
+bash-3.2$ els
+0919.cnt
+bash-3.2$ date
+2019년 9월 19일 목요일 08시 44분 37초 KST
+bash-3.2$ who
+admin    console  Sep 19 08:09 
+admin    ttys000  Sep 19 08:27 
+bash-3.2$ exit
+exit
+
+Script done, output file is 0919.cnt
+bash-3.2$ ls
+0919.cnt
+bash-3.2$ cat 0919.tx
+cat: 0919.tx: No such file or directory
+bash-3.2$ cat 0919.txt
+cat: 0919.txt: No such file or directory
+bash-3.2$ touch sampia
